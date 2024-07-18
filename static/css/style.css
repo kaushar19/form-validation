@@ -1,0 +1,11 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.formData{
+    background-color: #CAF4FF;
+}
+.formTable{
+    background-color: #CAF4FF;
+}
