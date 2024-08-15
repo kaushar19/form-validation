@@ -132,9 +132,9 @@ function FormData() {
                     className="form-control"
                     value={formData.uphone}
                     onChange={getValue}
-                    pattern="[0-9]{3}[0-9]{3}[0-9]{4}"
+                    pattern="[789][0-9]{9}"
                     maxLength={10}
-                    placeholder="1234567890"
+                    placeholder="97xxxxxxxx"
                     required
                   />
                 </div>
